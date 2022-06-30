@@ -1,0 +1,325 @@
+body{
+	
+margin:0;
+	
+}
+
+
+.header{
+
+	height: 60px;
+	width:100%;
+	position: fixed;
+	background: #ffffff;
+	z-index:1;
+	color: #FF7200;
+}
+
+.main{
+
+margin-top: 70px;
+height:100vh;
+width:100%;
+position: absolute;
+background: #ffffff;
+}
+
+
+.logo{
+
+	height:50px;
+	width:50px;
+	margin-left: 45px;
+	margin-top:2px;
+	float:left;
+}
+
+.navigation{
+
+
+	font-weight: Bold;
+	display: inline-block;
+}
+
+.navigation_text{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	float: left;
+	margin-left:25px;
+	color: #FF7200;
+	text-decoration: none;
+	margin-top: 19px;
+	font-size:20px;
+}
+
+
+.navigation_name{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	float: right;
+	margin-right:45px;
+	font-size:20px;
+	color: #FF7200;
+
+
+}
+
+
+.N_glav{
+
+	margin-top: 2px;
+	margin-left: 330px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	font-size:55px;
+	color: #FF7200;
+
+}
+.name{
+
+	margin-top: 5px;
+	margin-left: 430px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	font-size:50px;
+	color: #FF7200;
+
+}
+.otvet{
+	float: left;
+	width: 250px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	height: 50px;
+	margin-top: 80px;
+	margin-left: 20px;
+	display: grid;
+	place-items: center;
+
+}
+.video{
+
+	margin-left: 430px;
+	margin-top: 15px;
+	width: 1100px;
+	height: 1600px;
+
+
+}
+
+.box_btn{
+
+	width: 1100px;
+	height: 80px;
+	margin-left: 430px;
+}
+
+.kurs{
+	padding: 10px 40px;
+	margin-top: 20px;
+	cursor: pointer;
+
+	border-radius: 10px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	font-weight: 300;
+	color: #FF7200;
+	background: none;
+	border: #FF7200 solid 2px;
+
+	float: left;
+
+}
+.back{
+	padding: 10px 40px;
+	margin-top: 20px;
+	cursor: pointer;
+
+	border-radius: 10px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	font-weight: 300;
+	color: #FF7200;
+	background: none;
+	border: #FF7200 solid 2px;
+	margin-right: 35px;
+	float: right;
+
+}
+
+.next{
+	padding: 10px 40px;
+	margin-top: 20px;
+	cursor: pointer;
+
+	border-radius: 10px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	font-weight: 300;
+	color: white;
+	background: #FF7200;
+	border: #FF7200 solid 2px;
+
+	float: right;
+
+}
+
+
+.zav{
+	padding: 10px 40px;
+	margin-top: 80px;
+	cursor: pointer;
+
+	border-radius: 10px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	font-weight: 300;
+	color: white;
+	background: none;
+	border: #FF7200 solid 2px;
+	background-color:#FF7200 ;
+
+	float: left;
+	margin-right: 5px;
+}
+
+
+
+.txt{
+	margin-top: 50px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px;
+}
+.box_flag{
+	margin-top: 20px;
+	width: 1300px;
+	height: 150px;
+
+
+}
+.box_txt{
+	margin-top: 15px;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	float: left;
+	width:160px;
+	height: 40px;
+	margin-left: 15px;
+	border: none;
+}
+
+.flag{
+float: left;
+	width: 160px;
+	height: 160px;
+
+	display: grid;
+	place-items: center;
+	margin-left: 15px;
+}
+
+
+.input{
+
+	float: left;
+	width: 130px;
+	height: 70px;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px;
+	border-radius: 0px;
+	color: #FF7200;
+}
+
+.ots{
+	width: 100%;
+	height: 65px;
+}
+
+.zad_2{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px;
+
+	width: 250px;
+	height: 30px;
+	float: left;
+}
+
+.tir{
+
+	float: left;
+	margin-right: 40px;
+}
+
+.txt_primer{
+
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	float: left;
+
+}
+
+.box_zad{
+	margin-top: 15px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	width: 1000px;
+	height: 35px;
+}
+
+.input_txt{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	width: 145px;
+	border: none;
+
+}
+
+.box_block{
+	margin-top: 40px;
+	width: 1400px;
+	height: 150px;
+
+}
+
+.block{
+	width: 150px;
+	height: 80px;
+	border: 2px solid black;
+	float: left;
+	display: grid;
+	place-items: center;
+	margin-left: 10px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+}
+
+.input_block{
+	width: 150px;
+	height: 78px;
+	float: left;
+	border: 2px solid black;
+text-align: center;
+	margin-left: 10px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	color: #FF7200;
+
+}
+
+.prob{
+	width: 150px;
+	height: 78px;
+	float: left;
+
+}
+
+.audio{
+	margin-top: 50px;
+	float: left;
+	width: 35px;
+	height: 35px;
+	margin-right: 15px;
+	cursor: pointer;
+}
